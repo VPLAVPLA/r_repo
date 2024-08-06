@@ -1,4 +1,6 @@
 # r_repo
 Repository for testing my Git/GitHub setup with R-studio
 
-“This is a line from RStudio"
+“This is a line from RStudio" 
+
+"Test another step"
