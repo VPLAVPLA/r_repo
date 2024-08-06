@@ -4,15 +4,11 @@
 .RData
 .Ruserdata
 
-# Ignore all CSV files
 *.csv
 
-# Ignore data directory
 data/
 
-# Logs
 *.log
 
-# Temporary files
 *.tmp
 *.temp
