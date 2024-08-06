@@ -6,3 +6,5 @@ Repository for testing my Git/GitHub setup with R-studio
 "Test another step"
 
 "Yet another step"
+
+"Yet another second step"
